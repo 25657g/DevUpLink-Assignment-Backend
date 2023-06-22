@@ -1,0 +1,152 @@
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\appsettings.json
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Student Management Sys.exe
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Student Management Sys.deps.json
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Student Management Sys.runtimeconfig.json
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Student Management Sys.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Student Management Sys.pdb
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.csproj.AssemblyReference.cache
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.AssemblyInfoInputs.cache
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.AssemblyInfo.cs
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.csproj.CoreCompileInputs.cache
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\scopedcss\bundle\Student Management Sys.styles.css
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.csproj.CopyComplete
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\refint\Student Management Sys.dll
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.pdb
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\Student Management Sys.genruntimeconfig.cache
+C:\Users\Gunawardana\3D Objects\MyApi\Student Management Sys\Student Management Sys\obj\Debug\net6.0\ref\Student Management Sys.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\appsettings.json
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Student Management Sys.exe
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Student Management Sys.deps.json
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Student Management Sys.runtimeconfig.json
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Student Management Sys.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Student Management Sys.pdb
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.csproj.AssemblyReference.cache
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.AssemblyInfoInputs.cache
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.AssemblyInfo.cs
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.csproj.CoreCompileInputs.cache
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\scopedcss\bundle\Student Management Sys.styles.css
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.csproj.CopyComplete
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\refint\Student Management Sys.dll
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.pdb
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\Student Management Sys.genruntimeconfig.cache
+C:\Users\Gunawardana\3D Objects\.Net API\DevUpLink-Assignment-Backend\Student Management Sys\obj\Debug\net6.0\ref\Student Management Sys.dll
