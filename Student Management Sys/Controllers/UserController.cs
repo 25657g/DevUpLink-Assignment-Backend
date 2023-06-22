@@ -10,6 +10,7 @@ using Student_Management_Sys.Services;
 namespace Student_Management_Sys.Controllers;
 
 [ApiController]
+[Authorize]
 [Route("[controller]")]
 public class UsersController : ControllerBase
 {
